@@ -37,7 +37,7 @@ disqus_shortname:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments: 
+facebook_comments:
 facebook_appid:
 facebook_comments_number: 10
 
@@ -47,7 +47,7 @@ bitbucket_username:
 stackoverflow_id:
 twitter_username: GeorgeyPeorgie
 skype_username:
-steam_nickname: bobthesausage
+steam_nickname: 76561198037248228
 google_plus_id:
 linkedin_username:
 angellist_username:
