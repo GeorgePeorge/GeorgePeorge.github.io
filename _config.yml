@@ -3,7 +3,7 @@ title:       George's Code Blog
 email:       georgeheard0@gmail.com
 author:      John Otander
 description:
-baseurl:     "georgeheard.net"
+baseurl:     "index.html"
 url:         "georgeheard.net"
 date_format: "%b %-d, %Y"
 
