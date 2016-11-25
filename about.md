@@ -11,5 +11,6 @@ I am using this blog as a learning exercise as well as, a blog.
 
 
 
-Git: GeorgePeorge
-Twitter: GeorgeyPeorgie
+<a href="https://github.com/GeorgePeorge">GitHub</a>
+
+<a href="https://twitter.com/GeorgeyPeorgie">Twitter</a>
