@@ -9,8 +9,7 @@ I am currently a third year student on my Industrial Year working at STFC as a j
 
 I am using this blog as a learning exercise as well as, a blog.
 
-You can find me at:
 
-twitter_username: GeorgeyPeorgie
-email: georgeheard0@gmail.com
-GitHub: GeorgePeorge
+
+Git: GeorgePeorge
+Twitter: GeorgeyPeorgie
