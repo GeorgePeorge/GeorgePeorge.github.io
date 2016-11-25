@@ -7,7 +7,7 @@ tags: about
 
 I am currently a third year student on my Industrial Year working at STFC as a junior web developer.
 
-I am using this blog as a learning exercise as well as, a blog.
+I am using this blog as a learning exercise as well as, a blog. All opinions are my own.
 
 
 
