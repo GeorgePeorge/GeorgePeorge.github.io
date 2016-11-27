@@ -1,10 +1,10 @@
 ---
 
 layout: post
-title: Ramble 1
+title: Rusty Weekend
 date: 2016-11-25
-summary: Travelling and 'free' wifi
-categories: ramble travel wifi
+summary: An unproductive hazy weekend
+categories: travel unproductive what even happened
 
 ---
 
