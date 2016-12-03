@@ -13,3 +13,5 @@ This week I've been primarily on maintenance duties, such as bringing the UCAT00
 I've also been trying to come up with a bright solution to the ever prevalent 'box of doom' (lots of things are described as 'doom' in work) which while solved, the solution is still really really shoddy and I'm trying to come up with a cleaner fix for this.
 
 I also got the new Pokémon (Moon) but haven't had much chance to play but might write a review for the first hour because I like that sort of thing.
+
+---
