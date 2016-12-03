@@ -8,7 +8,7 @@ categories: pokémon pokemon moon sun new first hour
 
 ---
 
-<img href="../images/pokemon-moon.jpg">
+![alt text](../images/pokemon-moon.jpg "Pokémon Moon")
 
 <strong>Preface</strong>
 
