@@ -19,7 +19,7 @@ I am a huge Pokémon fan, particularly of the first generation. Although I have 
 
 I didn't read up much on this game and went in relatively blind, which is usually the best way to play Pokémon as it gives it that more adventuring feel the Pokémon games have been giving children and nerds like me for 20 or so years. I had seen the starters on Youtube though, and was quite the fan. I instantly mentally picked Rowlett (The Grass/Flying type) as I liked it's duel typing and there's just something so cute about Owls to me.
 
-The game opens basically with the classic meeting with the Professor of the new region you will be exploring, in this case it's Professor Kukui, who is constantly shirtless. Apart from his borderline blunt Hawaiian stereotype, he is actually instantly probably the least bland Pokémon Professor we've had.
+The game opens basically with the classic meeting with the Professor of the new region you will be exploring, in this case it's Professor Kukui, who is constantly shirtless. Apart from his borderline blunt Hawaiian stereotype, he is actually probably the least bland and most likable Pokémon Professor we've had. (Sorry Prof Oak)
 
 This is one of the primary things I love about the game so far, Game Freak have done a fantastic job with characterization in this game, they are much more lovable and feel like they have more depth than the usual generic Pokémon stereotypes we get.
 
