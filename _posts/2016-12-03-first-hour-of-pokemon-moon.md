@@ -8,7 +8,7 @@ categories: pokémon pokemon moon sun new first hour
 
 ---
 
-![alt text](../images/pokemon-moon.jpg "Pokémon Moon")
+![Pokémon Moon Cover](http://www.hardcoregamer.com/wp-content/uploads/2016/05/PokC%CC%A7mon-Moon-box-art.jpg "Pokémon Moon")
 
 <strong>Preface</strong>
 
