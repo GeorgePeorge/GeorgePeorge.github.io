@@ -1,7 +1,7 @@
 ---
 
-layout: post
 title: Blog reboot
+layout: post
 date: 2016-11-25
 summary: It's been a while
 categories: neglected this blog because i am super lazy lol
