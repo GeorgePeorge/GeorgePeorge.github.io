@@ -8,7 +8,7 @@ categories: dota 2 juggernaut 7.03 patch notes interesting changes
 
 ---
 
-![Juggernaut Arcana]("../images/juggernaut-arcana.png")
+![Juggernaut Arcana]("https://www.pcgamesn.com/sites/default/files/juggernaut%20arcana.png" Juggernaut Arcana)
 
 The newest DotA 2 patch is here and with it brings the long anticipated Juggernaut arcana that was voted for during TI6 (The International 6). To many peoples dismay (birthing a 'RIGGED' meme) Juggernaut won the vote over Io, a hero that currently has no cosmetics whatsoever, whereas Yurnero The Juggernaut already has a well fleshed out collection available.
 
