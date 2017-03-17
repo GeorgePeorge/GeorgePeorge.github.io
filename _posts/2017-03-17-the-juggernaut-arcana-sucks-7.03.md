@@ -1,6 +1,6 @@
 ---
 
-title: The Juggernaut arcana sucks and 7.03 thoughts
+title: DoTA 2, Juggernaut and 7.03
 layout: post
 date: 2017-03-17
 summary: Some musings on 7.03
