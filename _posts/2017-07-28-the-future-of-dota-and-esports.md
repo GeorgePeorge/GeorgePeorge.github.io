@@ -26,6 +26,6 @@ People new to watching DotA aren't going to appreciate when the Earth Spirit lan
 
 How do we get new people invested in DotA? **_We get them playing._**
 
-# DotA's stagnating playerbase
+# DotAs stagnating playerbase
 
-It's not secret now that DotA as a game is not growing, but bizarrely it's not shrinking (much) either. DotA is clearly in the position of having an extremely loyal (or addicted, depending on how you look at it) playerbase, and suffering from a lack of draw for new players. Valve have very recently started working on their new player experience
+It's not secret now that DotA as a game is not growing, but bizarrely it's not shrinking (much) either. DotA is clearly in the position of having an extremely loyal (or addicted, depending on how you look at it) playerbase, and suffering from a lack of draw for new players. Valve have very recently started working on their new player experience, matching new players with only players with high behaviour scores and also limiting them a select group of heroes they can play until they get more experience with the game generally. 
