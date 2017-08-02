@@ -24,7 +24,7 @@ _How does eSports grow when it's so hard for people to start watching?_ A questi
 
 People new to watching DotA aren't going to appreciate when the Earth Spirit lands a brilliant boulder smash onto all 5 of the enemy heroes, or appreciate the micro skills required to play heroes such as Meepo or Arc Warden. As a keen watcher, I love watching pros pull things off on heroes I didn't even think were possible.
 
-How do we get new people invested in DotA? *_We get them playing_*
+How do we get new people invested in DotA? **_We get them playing_**
 
 # DotA's stagnating playerbase
 
