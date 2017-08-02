@@ -3,7 +3,7 @@
 layout: post
 title: The Future of DotA in eSports
 date: 2017-07-28
-summary: Where are we going?
+summary: A look at DotAs current place in the eSports scene and where it's future lies
 categories: dota, esports, ti7, video games
 
 ---
