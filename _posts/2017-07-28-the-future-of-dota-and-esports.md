@@ -8,7 +8,7 @@ categories: dota, esports, ti7, video games
 
 ---
 
-### eSports is like an inevitability at this point, much to the dismay of parents and the old fashioned alike
+**eSports is like an inevitability at this point, much to the dismay of parents and the old fashioned alike**
 
 It's prevalence is becoming noticeable to everyone, as more and more people find a game they can watch and enjoy. Many sports websites, including giants like ESPN, now have an eSports section and dedicated eSports journalists. Just today the **_BBC_** announced that they would be showing eSports, not a sentence I thought I would get to say as a Brit.
 
